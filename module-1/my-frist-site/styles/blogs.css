@@ -1,5 +1,5 @@
 .blog{
-    size: 50%;
+    max-width: 50%;
     background-color: aqua;
     border: 5px solid;
     border-bottom: none;
