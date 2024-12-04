@@ -1,0 +1,20 @@
+.inputSearch {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.valign img,
+.valign a
+         {
+            display: block;
+            margin-bottom: 10px;
+
+}
+
+.feedback {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 10px;
+}
