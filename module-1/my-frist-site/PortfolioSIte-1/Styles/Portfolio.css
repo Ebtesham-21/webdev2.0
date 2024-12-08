@@ -46,9 +46,11 @@ margin-top: 0px;
 }
 
 .banner {
-    padding: 30px 30px 30px 150px;
+    padding: 30px 30px 0px 150px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
+    background-color: white;
 }
 
 .banner .pro-pic {
@@ -66,3 +68,17 @@ margin-top: 0px;
     font-weight: 700;
     padding: 15px 35px;
 }
+
+.banner-greeting {
+    font-size: 45px;
+    color: #474747;
+    margin-bottom: 0;
+}
+
+.banner-content {
+    max-width: 500px;
+}
+
+/* main section styles */
+
+/* about section styles */
